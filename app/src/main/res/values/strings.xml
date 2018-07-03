@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">androidHw14</string>
+    <string name="humidity">Humidity</string>
+    <string name="wind">Wind speed</string>
+    <string name="hint">Input city name</string>
+    <string name="send">Send</string>
+</resources>

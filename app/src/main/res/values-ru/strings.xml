@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="humidity">Влажность</string>
+    <string name="wind">Скорость ветра</string>
+    <string name="hint">Введите город</string>
+    <string name="send">Отправить</string>
+</resources>
